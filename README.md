@@ -40,10 +40,10 @@
 <img width="1120" alt="image" src="">
 
 - *About us*
-<img width="1119" alt="image" src="">
+<img width="1119" alt="image" src="https:chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=739&url=https%3A%2F%2Faak-resume-builder.netlify.app%2Fabout-us">
 
 *__Live Link__* <br/>
-<b>Click [Here](https://resume-builder-56.netlify.app/)</b>
+<b>Click [Here](https://aak-resume-builder.netlify.app/)</b>
 
 </hr>
 

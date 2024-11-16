@@ -34,7 +34,7 @@
 <img width="1120" alt="image" src="https://github.com/user-attachments/assets/ded63fe0-07b6-4e0a-90f7-aae16494c683">
 
 - *Details Filling page*
-<img width="1117" alt="image" src="">
+<img width="1117" alt="image" src="https://github.com/user-attachments/assets/388950b4-c436-4a7b-8a89-4072b02b0d74">
 
 - *My Resumes*
 <img width="1120" alt="image" src="">

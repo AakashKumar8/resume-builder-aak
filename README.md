@@ -31,7 +31,7 @@
 
 ## Demo about the pages:
 -  *Home Page*
-<img width="1120" alt="image" src="">
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/ded63fe0-07b6-4e0a-90f7-aae16494c683">
 
 - *Details Filling page*
 <img width="1117" alt="image" src="">
@@ -40,7 +40,7 @@
 <img width="1120" alt="image" src="">
 
 - *About us*
-<img width="1119" alt="image" src="https:chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=739&url=https%3A%2F%2Faak-resume-builder.netlify.app%2Fabout-us">
+<img width="1119" alt="image" src="https://github.com/user-attachments/assets/3a54bf24-b357-44f8-81f4-1c7fd0979715">
 
 *__Live Link__* <br/>
 <b>Click [Here](https://aak-resume-builder.netlify.app/)</b>

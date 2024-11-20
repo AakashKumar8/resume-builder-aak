@@ -66,14 +66,10 @@
     +---Components
     |   |   CheckSelectedId.js
     |   |   
-    |   +---BackNextBtn
+    |   +---Button
     |   |       BackNextBtnComponent.css
     |   |       BackNextBtnComponent.js
-    |   |       
-    |   +---BlackScreen
-    |   |       BlackScreen.css
-    |   |       BlackScreen.js
-    |   |       
+    |   |          
     |   +---DetailFillingSidebar
     |   |       DetailFillingSidebar.js
     |   |       DetailsFillingSideBar.css
@@ -98,7 +94,7 @@
     |   |       KeySkillsComponent.css
     |   |       KeySkillsComponent.js
     |   |       
-    |   +---MainBar
+    |   +---NavigationBar
     |   |       Navbar.css
     |   |       Navbar.js
     |   |       
@@ -109,7 +105,11 @@
     |   +---Preview
     |   |       PreviewComponent.css
     |   |       PreviewComponent.js
-    |   |       
+    |   | 
+    |   +---Screen
+    |   |       BlackScreen.css
+    |   |       BlackScreen.js
+    |   |    
     |   +---Select
     |   |       SelectComponent.css
     |   |       SelectComponent.js
@@ -158,7 +158,7 @@
         |       templates.js
         |       
         +---Images
-        |       aboutCV.jpg
+        |       home-img.png
         |       sample_1.jpg
         |       sample_2.jpg
         |       sample_3.jpg

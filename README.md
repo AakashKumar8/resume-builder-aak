@@ -37,7 +37,7 @@
 <img width="1117" alt="image" src="https://github.com/user-attachments/assets/388950b4-c436-4a7b-8a89-4072b02b0d74">
 
 - *My Resumes*
-<img width="1120" alt="image" src="">
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/b8e0445d-63e4-4276-b356-0cfb01480bc6">
 
 - *About us*
 <img width="1119" alt="image" src="https://github.com/user-attachments/assets/3a54bf24-b357-44f8-81f4-1c7fd0979715">

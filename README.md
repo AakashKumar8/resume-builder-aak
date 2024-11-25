@@ -45,6 +45,9 @@
 *__Live Link__* <br/>
 <b>Click [Here](https://aak-resume-builder.netlify.app/)</b>
 
+*__Summary Document__* <br/>
+<b>>Click [Here](https://docs.google.com/document/d/1eIQhwsy_5eHmOSYA_o2cKXQOgDxBHIBZm4nnZh8qNtg/edit?usp=sharing)</b>
+
 </hr>
 
 ## Folder Structure
